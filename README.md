@@ -15,4 +15,5 @@ In the same anaconda prompt, type the following to install Pandas:
 * ```pip install pandas```
 ## More
 Pandas cheat sheet: https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+
 Link for the recording: not available for now
