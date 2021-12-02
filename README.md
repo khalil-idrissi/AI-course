@@ -22,4 +22,4 @@ Numpy cheat sheet:  <a href="https://assets.datacamp.com/blog_assets/Numpy_Pytho
 
 matplotlib cheat sheet:  <a href="https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf">link</a>
 
-Link for the recordings: <a href="https://www.youtube.com/watch?v=ZupndlXVjzM&list=PLzG4PaelzENDr-o5jbvSBlx2o8Q-PehZI">link</a>
+Videos: <a href="https://www.youtube.com/channel/UCq6QuBGs_Jby2NyC4QzjaMQ/playlists">link</a>
