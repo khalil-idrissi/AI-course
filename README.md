@@ -15,6 +15,9 @@ In the same anaconda prompt, type the following to install Pandas, numpy and mat
 * ```pip install pandas```
 * ```pip install numpy```
 * ```pip install matplotlib```
+* ```pip install scikit-learn```
+* ```pip install opencv-python```
+
 ## More
 Pandas cheat sheet: <a href="https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf">link</a>
 
@@ -22,4 +25,7 @@ Numpy cheat sheet:  <a href="https://assets.datacamp.com/blog_assets/Numpy_Pytho
 
 matplotlib cheat sheet:  <a href="https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf">link</a>
 
-Videos: <a href="https://www.youtube.com/channel/UCq6QuBGs_Jby2NyC4QzjaMQ/playlists">link</a>
+Scikit-learn cheat sheet: <a href="https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf">link</a>
+
+Videos: <a href="https://www.youtube.com/channel/UCq6QuBGs_Jby2NyC4QzjaMQ/videos">link</a>
+
